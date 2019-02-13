@@ -55,10 +55,15 @@ cd python gui.py
 
 ### A series of images
 
-![](C:\Users\57844\Desktop\CV作业\实验原文件\实验1\Exp1_Hybrid_Images\resources\cat.jpg)
+![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite1.jpg)
 
-![](C:\Users\57844\Desktop\CV作业\实验原文件\实验1\Exp1_Hybrid_Images\resources\dog.jpg)
+![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite2.jpg)
 
+![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite3.jpg)
+
+![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite4.jpg)
 ### Panorama
 
-![](C:\Users\57844\Desktop\CV作业\实验原文件\实验1\Exp1_Hybrid_Images\resources\hybrid.png)
+![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/Project3_Results/yosemite_pano_homography_blendwidth50.png)
+
+![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/Project3_Results/yosemite_pano_translation_blendwidth50.png)
