@@ -53,15 +53,11 @@ cd python gui.py
 
 ## Examples
 
-### A series of images
+### Input images
+| ![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite1.jpg) | ![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite3.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite4.jpg) | ![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite2.jpg) |
 
-![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite1.jpg)
-
-![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite2.jpg)
-
-![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite3.jpg)
-
-![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/resources/yosemite/panorama/yosemite4.jpg)
 ### Panorama
 
 ![](https://github.com/ReynoldZhao/Project3_Autostitch/raw/master/Project3_Results/yosemite_pano_homography_blendwidth50.png)
